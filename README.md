@@ -10,7 +10,7 @@ python -m venv .venv
 #### Linux
 `source .venv/bin/activate`
 #### Windows
-`venv\Scripts\activate``
+`venv\Scripts\activate`
 
 ## Install dependencies
 Run the following command in CMD/PowerShell in the path where [requirements.txt](./requirements.txt) file is located.<br>
