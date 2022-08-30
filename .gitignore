@@ -1,0 +1,5 @@
+.vscode/
+*.py[co]
+*.DS_*
+.venv
+__pycache__/
